@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcecrypt",
+        "uuid": 8026187,
+        "checksum": "5vsf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
